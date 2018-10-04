@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /files/Anish_Vankayalapati_Resume.pdf
     
   - title: "Guide"
     url: /markdown/
