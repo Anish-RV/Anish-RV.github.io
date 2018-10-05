@@ -5,18 +5,8 @@ main:
 
   - title: "Projects"
     url: /projects/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "Resume"
     url: /files/Anish_Vankayalapati_Resume.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  
