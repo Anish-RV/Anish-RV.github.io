@@ -8,7 +8,7 @@ author_profile: true
 ## Personal/Class Projects
 
 ### BearMaps
-Java | <span style="color:blue">[Project Link](https://github.com/Anish-RV/course-projects/tree/master/BearMaps)</span>| July 2018
+Java | <span style="color:blue">[Project Link](https://github.com/Anish-RV/course-projects/tree/master/BearMaps)</span> | July 2018
 - Coded the back end of a web mapping application of the Berkeley campus.
 - Implemented Route Search utilizing the k-nearest-neighbours algorithms to find the shortest path between two points.
 
